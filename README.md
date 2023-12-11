@@ -1,4 +1,4 @@
-# HR-Analytics
+# HR-Analytics.
 Tasks to perform: 
 Data Cleaning:
 Deleting redundant columns.
